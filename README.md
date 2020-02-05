@@ -1,2 +1,2 @@
-# sample_unifaat
+# Sistema de atendimento - UNIFAAT
  SAMPLE - Sistema de atendimento para secretaria
