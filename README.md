@@ -1,6 +1,6 @@
 # Sistema de atendimento - UNIFAAT
  
- Projeto desenvolvido com base no meu [Projeto de conclusão de curso](https://github.com/lucasmcon/App_PCC).
+ Sistema desenvolvido com base no meu [Projeto de conclusão de curso](https://github.com/lucasmcon/App_PCC).
  
  Após reunicão com diretoria, diversas modificações foram feitas no projeto inicial, com alguns requisitos:
  
