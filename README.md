@@ -2,7 +2,7 @@
  
  Sistema desenvolvido com base no meu [Projeto de conclusão de curso](https://github.com/lucasmcon/App_PCC).
  
- Após reunicão com diretoria, diversas modificações foram feitas no projeto inicial, com alguns requisitos:
+ Após boa repercussão do meu projeto de conclusão de curso, me reuni com a diretoria e decidimos colocar o projeto em prática, diversas modificações foram feitas no projeto inicial, com alguns requisitos:
  
 - Implementação de geração de senha através de um *TOTEM* interativo.
 - Integração com API RestFUL para consumo de dados acadêmicos dos alunos nas solicitações de atendimento.
