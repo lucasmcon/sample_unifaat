@@ -27,7 +27,7 @@ As tecnologias utilizadas para desenvolvimento desse sistema firam:
 Para rodar o sistema, foi necessário utilizar um servidor Linux (Ubuntu 18.04 LTS) com os seguintes serviços rodando:
 - Apache2
 - MySQL Server
-- CUPs (para integração com impressora termica do Totem
+- CUPs (para integração com impressora termica do Totem)
 
 
 Em breve mais informações sobre o sistema.
