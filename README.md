@@ -15,7 +15,7 @@
 
 ## Desenvolvimento
 
-As tecnologias utilizadas para desenvolvimento desse sistema firam:
+As tecnologias utilizadas para desenvolvimento desse sistema foram:
 - PHP
 - JavaScript (jQuery)
 - Banco de dados MySQL Server
